@@ -17,3 +17,9 @@ theme:
         icon: material/toggle-switch-off-outline
         name: Switch to light mode
       primary: blue
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
