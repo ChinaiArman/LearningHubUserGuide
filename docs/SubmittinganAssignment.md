@@ -73,3 +73,14 @@ Image 19 - image of Comments box
 !!! success
     Upon successful submission, an email will be sent to the users myBCIT email. The email will be from ‘The Learning Hub - BCIT’s Online Course Portal’ with the subject  ‘Submission receipt’. The content of the email will contain the Submission ID’, the date the assignment was received, the class name, as well as the name of any uploaded files.  
     Image 11 - image of submission confirmation email and it’s contents
+
+
+## Conclusion
+
+By the end of this section, user’s will be able to:  
+
+:material-check-circle:{ .green-checkmark }   Submit a text prompt for submission  
+:material-check-circle:{ .green-checkmark }   Upload and submit files for submission  
+
+Awesome work! Now let's learn how to 
+[Create a Discussion Post](../docs/CreatingaDiscussionPost.md).
