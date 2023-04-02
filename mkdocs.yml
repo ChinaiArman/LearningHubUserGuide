@@ -26,3 +26,11 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+
+nav:
+  - Introduction: 'index.md'
+  - 'SubmittinganAssignment.md'
+  - 'CreatingaDiscussionPost.md'
+  - 'JoiningandLeavingaGroup.md'
+  - 'troubleshooting.md'
+  - 'glossary.md'

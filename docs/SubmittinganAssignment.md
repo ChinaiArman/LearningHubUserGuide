@@ -83,4 +83,4 @@ By the end of this section, user’s will be able to:
 :material-check-circle:{ .green-checkmark }   Upload and submit files for submission  
 
 Awesome work! Now let's learn how to 
-[Create a Discussion Post](../docs/CreatingaDiscussionPost.md).
+[Create a Discussion Post](../CreatingaDiscussionPost).
