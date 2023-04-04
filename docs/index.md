@@ -41,12 +41,12 @@ For Example:
 
 2. If a step requires additional information, that information will be placed directly underneath the step inside a note:
 
-    !!! note
+!!! note
         Specifies additional information that will assist in the completion of a task.
 
 3. Once a task is complete, a success box will appear:
 
-    !!! success
+!!! success
         Indicates what success looks like.
 
 ## Instructional Objectives
@@ -56,5 +56,5 @@ Upon reading this documentation, users will know how to:
 :material-check-circle:{ .green-checkmark } Submit digital assignments including file upload and text submissions  
 :material-check-circle:{ .green-checkmark } Create a new discussion post on a pre-existing discussion boards  
 :material-check-circle:{ .green-checkmark } Join and leave a LearningHub group  
-:material-check-circle:{ .green-checkmark } Resolve common errors that users can encounter on LearningHub
+:material-check-circle:{ .green-checkmark } Resolve common errors that users can encounter on LearningHub  
 :material-check-circle:{ .green-checkmark } Understand the meaning of key terms  

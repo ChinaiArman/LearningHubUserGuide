@@ -24,12 +24,11 @@ After reaching the class homepage, users will need to navigate to the submission
 2. **Click** on the ‘Assignments’ submenu  
     Image 5 - image of Assignments submenu  
 3. **Scroll** on the page to find the specified assignment and Click on the assignment name.  
+    Image 6 - image of assignment that is clickable and open for submission
 
-    !!! note
-        Assignments that are open for submission will be colored blue and will be clickable. Assignments not open to submission may either be not present on this page or will be present but will be colored gray and be unclickable.  
-
-    Image 6 - image of assignment that is clickable and open for submission  
-    Image 7 - image of assignment that is not clickable and therefore not open for submission  
+!!! note
+        Assignments that are open for submission will be colored blue and will be clickable. Assignments not open to submission may either be not present on this page or will be present but will be colored gray and be unclickable.
+        Image 7 - image of assignment that is not clickable and therefore not open for submission  
 
 ## Submitting an Assignment
 
@@ -42,18 +41,17 @@ This subsection will outline the steps to submit a text prompt.
 1. **Read** the submission requirements under the Instructions heading  
     Image 8 - image of Instructions heading  
 2. **Type** text submission in the text editor.
-
-    !!! note
-        The text editor contains formatting tools to adjust the style of the text.  
-
     Image 9 - image of text editor and text inside
+
+!!! note
+        The text editor contains formatting tools to adjust the style of the text.  
 
 3. **Click** on Submit  
     Image 10 – submit button  
 
 !!! success
-    Upon successful submission, an email will be sent to the users myBCIT email. The email will be from ‘The Learning Hub - BCIT’s Online Course Portal’ with the subject  ‘Submission receipt’. The content of the email will contain the Submission ID’, the date the assignment was received, the class name, as well as the name of any uploaded files.  
-    Image 11 - image of submission confirmation email and it’s contents
+        Upon successful submission, an email will be sent to the users myBCIT email. The email will be from ‘The Learning Hub - BCIT’s Online Course Portal’ with the subject  ‘Submission receipt’. The content of the email will contain the Submission ID’, the date the assignment was received, the class name, as well as the name of any uploaded files.  
+        Image 11 - image of submission confirmation email and it’s contents
 
 ### File Submission
 
@@ -66,13 +64,13 @@ This subsection will outline the steps to upload and submit a file for submissio
 3. **Click** on ‘Upload’.  
     Image 14 - image of upload box  
 
-    !!! note
+!!! note
         Users may also drag and drop files directly into the Upload box instead of manually uploading files.
 
 4. **Find** the necessary files on the user’s computer in the file explorer popup that has now opened.  
     Image 15: image of file explorer open popup
 
-    !!! note
+!!! note
         Multiple files can be selected at once by holding Ctrl and Clicking on each file.
 
 5. **Click** Open  
@@ -80,16 +78,15 @@ This subsection will outline the steps to upload and submit a file for submissio
 6. **Click** Add  
     Image 17 - image of Add  
 7. **Click** Submit
-
-    !!! note
-        Before clicking Submit, users may enter any comments in the Comments box.
-  
     Image 18 - image of Submit  
-    Image 19 - image of Comments box  
+
+!!! note
+        Before clicking Submit, users may enter any comments in the Comments box.
+        Image 19 - image of Comments box  
 
 !!! success
-    Upon successful submission, an email will be sent to the users myBCIT email. The email will be from ‘The Learning Hub - BCIT’s Online Course Portal’ with the subject  ‘Submission receipt’. The content of the email will contain the Submission ID’, the date the assignment was received, the class name, as well as the name of any uploaded files.  
-    Image 11 - image of submission confirmation email and it’s contents
+        Upon successful submission, an email will be sent to the users myBCIT email. The email will be from ‘The Learning Hub - BCIT’s Online Course Portal’ with the subject  ‘Submission receipt’. The content of the email will contain the Submission ID’, the date the assignment was received, the class name, as well as the name of any uploaded files.  
+        Image 11 - image of submission confirmation email and it’s contents
 
 ## Conclusion
 

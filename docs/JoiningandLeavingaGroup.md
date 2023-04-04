@@ -31,21 +31,19 @@ Now inside of the Groups tab, users will be able to see all of the groups they a
 1. **Click** on “View Available Groups”  
     Image 8 - an image of the view available groups button.  
 2. **Select** a group to join and **Click** the “Join Group” button under the “Actions” column.
-
-    !!! warning
+    Image 9 - an image of the available groups page  
+!!! warning
         Users can only be a part of one group at a time.  
 
-    !!! note
+!!! note
         If the “Available Groups” tab displays the message “no items”, there are no available groups for users to join.  
 
-    !!! note
+!!! note
         After clicking “Join Group”, users will be redirected to the page where users can see all of their active groups.  
 
-    Image 9 - an image of the available groups page  
-
 !!! success
-    Upon successfully joining a group, users will be able to see the new group under the “My Groups” Section.  
-    Image 10 - image of My Groups tab with new group.
+        Upon successfully joining a group, users will be able to see the new group under the “My Groups” Section.  
+        Image 10 - image of My Groups tab with new group.
 
 ## Leave a Group
 
@@ -57,8 +55,8 @@ The following set of instructions will inform users how to leave a group. To dem
     Image 12 - image of Action column
 
 !!! success
-    Upon successfully leaving a group, users will no longer see the group under the “My Groups” Section.  
-    Image 13 - image of My Groups section with group gone.
+        Upon successfully leaving a group, users will no longer see the group under the “My Groups” Section.  
+        Image 13 - image of My Groups section with group gone.
 
 ## Conclusion
 

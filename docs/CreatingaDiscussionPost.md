@@ -25,7 +25,7 @@ After reaching the class homepage, users will need to navigate to a discussion t
    Image 5 - image of Discussions submenu  
 3. **Scroll** on the page to find the specified discussion and **Click** on the discussion topic’s name.  
 
-   !!! note
+!!! note  
       Instructors are able to set close dates on discussion topics. Users must confirm that the discussion topic is still open for new discussions by checking the “Available until…” text directly below the discussion topic’s title to confirm that the date has not passed. If no text is below the discussion topic’s title, the discussion does not have a close date.  
 
    Image 6 - image of a discussion topic available for submissions.  
@@ -39,13 +39,13 @@ Now inside of a discussion topic, the user can choose to either reply to an alre
    Image 8 - an image of the new thread button
 2. **Enter** a subject line for the discussion  
 
-   !!! warning
+!!! warning
       This subject line will be visible to anyone who has access to the class's discussion board. This subject line will be used to identify the thread, and should be chosen carefully.  
 
    Image 9 - an image of an entered subject line.
 3. **Write** the discussion post  
 
-   !!! warning
+!!! warning
       The contents of the discussion post will be visible to anyone who has access to the class’s discussion board.
 
    Image 10 - an image of the posted discussion.  
@@ -53,8 +53,8 @@ Now inside of a discussion topic, the user can choose to either reply to an alre
    Image 11 - an image of the post button
 
 !!! success
-    Upon successfully creating a new discussion post, the discussion post will now be viewable at the top of the discussion board. The post will also be searchable by the subject line entered in the earlier steps.  
-    Image 12 - image of discussion board with post
+      Upon successfully creating a new discussion post, the discussion post will now be viewable at the top of the discussion board. The post will also be searchable by the subject line entered in the earlier steps.  
+      Image 12 - image of discussion board with post
 
 ## Conclusion
 
