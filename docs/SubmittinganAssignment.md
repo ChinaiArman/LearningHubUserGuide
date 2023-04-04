@@ -8,12 +8,12 @@ This section will outline the steps needed to submit an assignment on LearningHu
 
 Starting from the LearningHub homepage, users will need to navigate to the appropriate class’s homepage in order to submit an assignment.
 
-1. **Click** on the Bento Menu in the header to view a drop down of enrolled classes.  
-   Image 1 - location of the Bento Menu without clicking on it  
-   Image 2 - image of the drop down menu once clicked on  
-1. **Type** course name and/or number in the search box and press Enter.  
-   Image 3 - image of class and search box once you type enter  
-1. **Click** on the class.
+1. **CLICK** on the Bento Menu in the header to view a drop down of enrolled classes.  
+   ![Bento menu](./images/taskx_image1.png)
+2. **TYPE** course name and/or number in the search box and **PRESS** Enter.  
+   ![Search bar](./images/taskx_image2.png)
+3. **CLICK** on the class.
+   ![Class menu](./images/taskx_image3.png)
 
 ## Navigate to Assignment Submission Page
 
