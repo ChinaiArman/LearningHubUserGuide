@@ -68,3 +68,11 @@ Unless the assignment has a limitation on the number of submissions, assignments
 !!! success
     A notification will appear at the bottom of the screen indicating that the post has been successfully deleted.
     ![Successfully delete post](./images/delete_post_success.png){:style="display:block; margin-left:auto; margin-right:auto"}
+
+## Conclusion
+
+By the end of this section, user’s will be able to:  
+
+:material-check-circle:{ .green-checkmark }   Resolve common issues that occur when completing the detailed tasks.
+
+Bravo! Take a gander at the [glossary](../glossary) for definitions on terminology used throughout the user guide.
