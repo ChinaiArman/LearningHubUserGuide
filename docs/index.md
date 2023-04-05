@@ -1,19 +1,19 @@
 # Introduction
 
-Hello World! This user guide will lead Computer Systems Technology students through several LearningHub tasks. This documentation intends to build user proficiency with everyday tasks to assist students transitioning to BCIT’s hybrid learning model.
+Hello World :earth_americas:! This user guide will lead Computer Systems Technology students through several LearningHub tasks. This documentation intends to build user proficiency with everyday tasks to assist students transitioning to BCIT’s hybrid learning model.
 
 LearningHub is an educational platform BCIT uses to deliver online educational content to students. LearningHub is provided by Brightspace’s Online Learning Platform, Desire2Learn. Institutions can customize the platform’s features to cater to the needs of their instructors and students. Along with delivering educational material, LearningHub can support student-teacher interactions through online classes and discussion boards.
 
 This guide will teach users how to Submit an Assignment, Create a Discussion Post, and Join and Leave a Group. Furthermore, this guide will also provide documentation for common mistakes and solutions.
 
-## Intended Users
+## :raising_hand: Intended Users
 
 This documentation is structured for the following users:  
   
 * Students using BCIT’s LearningHub  
 * First term Computer Systems Technology students
 
-## Prerequisite Knowledge
+## :brain: Prerequisite Knowledge
 
 The documentation assumes the following:  
   
@@ -22,14 +22,14 @@ The documentation assumes the following:
 * Basic understanding of file types
 * Ability to navigate the Windows File Explorer
 
-## Instructional Conventions
+## :school: Instructional Conventions
 
 All of the instructions will:  
   
 * Begin from the "My Home" page on LearningHub
 * Assume users can reach the "My Home" page from any page within LearningHub once signed in
 
-## Documentational Conventions
+## :scroll: Documentational Conventions
 
 1. Actions will be bolded. They require an action on the part of the user in order to complete the step.  
 
@@ -48,7 +48,7 @@ All of the instructions will:
 !!! success
         Indicates what success looks like.
 
-## Instructional Objectives
+## :round_pushpin: Instructional Objectives
 
 Upon reading this documentation, users will know how to:  
 <br>
