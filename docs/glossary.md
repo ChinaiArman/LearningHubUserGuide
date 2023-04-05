@@ -28,7 +28,7 @@ Discussion Posts are short student or instructor writing pieces attached to a la
 
 ### Instructor
 >
-An Instructor is a LearningHub educator with special permissions over their specific LearningHub class. Instructors usually include the class's teacher but can consist of more people depending on the course. Instructors can perform administrative actions that students cannot complete from their LearningHub portal. 
+An Instructor is a LearningHub educator with special permissions over their specific LearningHub class. Instructors can perform administrative actions that students cannot complete from their LearningHub portal.
 >
 
 ## Conclusion

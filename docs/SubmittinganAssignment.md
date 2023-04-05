@@ -73,13 +73,14 @@ This subsection will outline the steps to upload and submit a file for submissio
 
 !!! note
         Users may also drag and drop files directly into the Upload box instead of manually uploading files.
+        ![Drag drop file](./images/drag_drop_file.png){:style="display:block; margin-left:auto; margin-right:auto"}
 
 !!! note
         Multiple files can be selected at once by holding Ctrl and Clicking on each file.
 
 !!! note
         Before clicking Submit, users may enter any comments in the Comments box.  
-    ![Comment Box](./images/comment_box.png){:style="display:block; margin-left:auto; margin-right:auto"}
+        ![Comment Box](./images/comment_box.png){:style="display:block; margin-left:auto; margin-right:auto"}
 
 !!! success
         Upon successful submission, an email will be sent to the users myBCIT email. The email will be from ‘The Learning Hub - BCIT’s Online Course Portal’ with the subject  ‘Submission receipt’. The content of the email will contain the Submission ID’, the date the assignment was received, the class name, as well as the name of any uploaded files.  
@@ -93,4 +94,4 @@ By the end of this section, user’s will be able to:
 :material-check-circle:{ .green-checkmark }   Upload and submit files for submission  
 
 Awesome work! Now let's learn how to
-[Create a Discussion Post](../CreatingaDiscussionPost).
+[create a discussion Post](../CreatingaDiscussionPost).

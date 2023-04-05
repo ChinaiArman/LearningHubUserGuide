@@ -34,16 +34,14 @@ Now inside of the Groups tab, users will be able to see all of the groups they a
     ![Join group button](./images/join_group_button.png){:style="display:block; margin-left:auto; margin-right:auto"}
 
 !!! warning
-        Users can only be a part of one group at a time.  
+        Users can only be a part of one group per group section at a time.  
+        ![Group sections](./images/group_sections.png){:style="display:block; margin-left:auto; margin-right:auto"}
 
 !!! note
         If the “Available Groups” tab displays the message “no items”, there are no available groups for users to join.  
 
-!!! note
-        After clicking “Join Group”, users will be redirected to the page where users can see all of their active groups.  
-
 !!! success
-        Upon successfully joining a group, users will be able to see the new group under the “My Groups” Section.  
+        Upon successfully joining a group, users will be redirected to the "My Groups" section, and will now see the new group.  
         ![Join group success](./images/join_group_success.png){:style="display:block; margin-left:auto; margin-right:auto"}
 
 ## Leave a Group
@@ -68,4 +66,4 @@ By the end of this section, user’s will be able to:
 :material-check-circle:{ .green-checkmark }   Leave a group from their My Groups tab.  
 
 Awesome work! Now let's learn how to
-[Create a Discussion Post](../CreatingaDiscussionPost).
+[create a discussion post](../CreatingaDiscussionPost).

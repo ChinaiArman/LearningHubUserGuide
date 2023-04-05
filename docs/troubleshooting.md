@@ -6,28 +6,30 @@ This section will troubleshoot common errors and problems users might encounter 
 
 ## Problems
 
-### Removing a File From an Assignment
+### How do I remove an uploaded file from an assignment?
 
-Starting from the submission screen where users can add files.
+Users may accidentally upload a file to an assignment or make changes to a file and need to reupload. This section will discuss how to fix this issue. Starting from the submission screen where users can add files.  
 
 1. **Click** on the small x next to the file's name.
     ![Remove file](./images/remove_file.png){:style="display:block; margin-left:auto; margin-right:auto"}
 
 !!! success
-    The assignments name will be crossed out in the list of attached files.
+    The assignment's name will be crossed out in the list of attached files.
     ![Remove file successful](./images/remove_file_success.png){:style="display:block; margin-left:auto; margin-right:auto"}
 
-### Leave group button not visible
+### How do I leave a group if the "Leave Group" button is not visible?
 
-The instructor dictates the permissions available when interacting with the Groups Tab. If no “Leave Group” button is available in the “Action” column, users must contact their instructor to be manually removed from the group. 
+Users may choose to leave a group for a variety of reasons, such as choosing to collaborate with different classmates. However, the user may notice that on some groups, the "Leave Group" button will not be visible under the "Action" column. The instructor dictates the permissions available when interacting with the Groups Tab. If no “Leave Group” button is available in the “Action” column, users must contact their instructor to be manually removed from the group.  
 
-!!! failure
+!!! failure "Not Possible"
     This task cannot be completed due to a user restriction.
     ![No leave group button](./images/no_leave_group.png){:style="display:block; margin-left:auto; margin-right:auto"}
 
-### How to Edit a Discussion Post
+### How do I edit my discussion post?
 
-1. **Navigate** to the Discussion Board and **Find** the post to be edited.
+After creating a discussion post, users may feel the need to update their post with more content, or remove mistakes. Starting from the discussion board with the post to be edited.
+
+1. **Find** the post.
     ![Find discussion post](./images/find_discussion_post.png){:style="display:block; margin-left:auto; margin-right:auto"}
 2. **Click** on the downward arrow menu.
     ![Downward arrow menu](./images/downward_arrow.png){:style="display:block; margin-left:auto; margin-right:auto"}
@@ -42,19 +44,19 @@ The instructor dictates the permissions available when interacting with the Grou
     A notification will appear at the bottom of the screen indicating that the post has been successfully updated.
     ![Successfully edited post](./images/update_post_success.png){:style="display:block; margin-left:auto; margin-right:auto"}
 
-### “Start New Thread” Button Not Visible
+### How do I make a discussion post when the "Start a New Thread" button is not visible?
 
 If the “Start New Thread” button is not visible on a Discussion Board, that means the window to submit new Discussion Posts has closed. Some Discussion Boards have due dates which require students to make their posts before a specific deadline.
 
-!!! failure
+!!! failure "Not Possible"
     At this point, there is no way to create a post on the board as the window for new posts has closed.
     ![Discussion post date passed](./images/discussion_post_date_passed.png){:style="display:block; margin-left:auto; margin-right:auto"}
 
-### Resubmit an Assignment
+### How do I resubmit an assignment?
 
-Unless the assignment has a limitation on the number of submissions, assignments can be resubmitted multiple times following the same set of instructions as provided in the Submitting an Assignment section.  
+Users may choose to resubmit an assignment to update files or add a new file. Unless the assignment has a limitation on the number of submissions, assignments can be resubmitted multiple times following the same set of instructions as provided in the Submitting an Assignment section.  
 
-### Delete a Discussion Post
+### How do I delete my discussion post?
 
 1. **Navigate** to the Discussion Board and **Find** the post to be edited.
     ![Find discussion post](./images/find_discussion_post.png){:style="display:block; margin-left:auto; margin-right:auto"}

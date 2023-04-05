@@ -56,4 +56,4 @@ By the end of this section, user’s will be able to:
 :material-check-circle:{ .green-checkmark }   Create their own discussion post on a discussion board  
 
 Awesome work! Now let's learn how to
-[Join and Leave a Group](../JoiningandLeavingaGroup).
+[join and leave a group](../JoiningandLeavingaGroup).

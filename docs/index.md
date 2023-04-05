@@ -6,12 +6,23 @@ LearningHub is an educational platform BCIT uses to deliver online educational c
 
 This guide will teach users how to Submit an Assignment, Create a Discussion Post, and Join and Leave a Group. Furthermore, this guide will also provide documentation for common mistakes and solutions.
 
+## :round_pushpin: Instructional Objectives
+
+Upon reading this documentation, users will know how to:  
+
+:material-check-circle:{ .green-checkmark } Submit digital assignments including file upload and text submissions  
+:material-check-circle:{ .green-checkmark } Create a new discussion post on a pre-existing discussion boards  
+:material-check-circle:{ .green-checkmark } Join and leave a LearningHub group  
+:material-check-circle:{ .green-checkmark } Resolve common errors that users can encounter on LearningHub  
+:material-check-circle:{ .green-checkmark } Understand the meaning of key terms  
+
 ## :raising_hand: Intended Users
 
 This documentation is structured for the following users:  
-  
+
 * Students using BCIT’s LearningHub  
-* First term Computer Systems Technology students
+* Windows Users  
+* First term Computer Systems Technology students  
 
 ## :brain: Prerequisite Knowledge
 
@@ -58,12 +69,6 @@ All of the instructions will:
 !!! success
         Indicates what success looks like.
 
-## :round_pushpin: Instructional Objectives
+## Conclusion
 
-Upon reading this documentation, users will know how to:  
-
-:material-check-circle:{ .green-checkmark } Submit digital assignments including file upload and text submissions  
-:material-check-circle:{ .green-checkmark } Create a new discussion post on a pre-existing discussion boards  
-:material-check-circle:{ .green-checkmark } Join and leave a LearningHub group  
-:material-check-circle:{ .green-checkmark } Resolve common errors that users can encounter on LearningHub  
-:material-check-circle:{ .green-checkmark } Understand the meaning of key terms  
+Now, let's get started by [submitting an assignment](../SubmittinganAssignment).
