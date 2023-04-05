@@ -59,7 +59,7 @@ The following set of instructions will inform users how to leave a group. To dem
 
 ## Conclusion
 
-By the end of this section, user’s will be able to:  
+After completing this section, users should now be able to:  
 
 :material-check-circle:{ .green-checkmark }   Navigate to the Group section of the Learning Hub  
 :material-check-circle:{ .green-checkmark }   Join a group from the Available groups tab  

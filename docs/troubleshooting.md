@@ -73,7 +73,7 @@ Users may choose to resubmit an assignment to update files or add a new file. Un
 
 ## Conclusion
 
-By the end of this section, user’s will be able to:  
+After completing this section, users should now be able to:  
 
 :material-check-circle:{ .green-checkmark }   Resolve common issues that occur when completing the detailed tasks.
 

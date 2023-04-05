@@ -33,7 +33,7 @@ An Instructor is a LearningHub educator with special permissions over their spec
 
 ## Conclusion
 
-By the end of this section, user’s will:  
+After completing this section, users should now:  
 
 :material-check-circle:{ .green-checkmark }   Know definitions for terminology used throughout the user guide and on LearningHub.
 

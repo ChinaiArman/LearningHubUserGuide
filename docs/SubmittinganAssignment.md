@@ -88,7 +88,7 @@ This subsection will outline the steps to upload and submit a file for submissio
 
 ## Conclusion
 
-By the end of this section, user’s will be able to:  
+After completing this section, users should now be able to:  
 
 :material-check-circle:{ .green-checkmark }   Submit a text prompt for submission  
 :material-check-circle:{ .green-checkmark }   Upload and submit files for submission  

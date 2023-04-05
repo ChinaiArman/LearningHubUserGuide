@@ -50,7 +50,7 @@ Now inside of a discussion topic, the user can choose to either reply to an alre
 
 ## Conclusion
 
-By the end of this section, user’s will be able to:  
+After completing this section, users should now be able to:  
 
 :material-check-circle:{ .green-checkmark }   Navigate to the Discussion section of the Learning Hub  
 :material-check-circle:{ .green-checkmark }   Create their own discussion post on a discussion board  
