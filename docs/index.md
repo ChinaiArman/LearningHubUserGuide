@@ -61,7 +61,7 @@ All of the instructions will:
 ## :round_pushpin: Instructional Objectives
 
 Upon reading this documentation, users will know how to:  
-<br>
+
 :material-check-circle:{ .green-checkmark } Submit digital assignments including file upload and text submissions  
 :material-check-circle:{ .green-checkmark } Create a new discussion post on a pre-existing discussion boards  
 :material-check-circle:{ .green-checkmark } Join and leave a LearningHub group  
