@@ -31,19 +31,29 @@ All of the instructions will:
 
 ## :scroll: Documentational Conventions
 
-1. Actions will be bolded. They require an action on the part of the user in order to complete the step.  
+* Actions will be bolded. They require an action on the part of the user in order to complete the step.  
 
 !!! quote "Example"
         **Click** on the ‘Activities’ dropdown menu in the top navigation bar.  
         **Click** on the ‘Assignments’ submenu  
         **Scroll** on the page to find the specified assignment and Click on the assignment name.
 
-2. If a step requires additional information, that information will be placed directly underneath the step inside a note:
+* Images will be annotated with red to indicate focal points.
+
+!!! quote "Example"
+        ![Confirm delete](./images/confirm_delete.png){:style="display:block; margin-left:auto; margin-right:auto"}
+
+* If a step requires additional information, that information will be placed directly underneath the step inside a note:
 
 !!! note
         Specifies additional information that will assist in the completion of a task.
 
-3. Once a task is complete, a success box will appear:
+* If there is room for error within the instructions, a warning will be given:
+
+!!! warning
+        Warns user of potential errors or mistakes.
+
+* Once a task is complete, a success box will appear:
 
 !!! success
         Indicates what success looks like.
