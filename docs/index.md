@@ -32,12 +32,11 @@ All of the instructions will:
 ## Documentational Conventions
 
 1. Actions will be bolded. They require an action on the part of the user in order to complete the step.  
->
-For Example:  
->
-**Click** on the ‘Activities’ dropdown menu in the top navigation bar.  
-**Click** on the ‘Assignments’ submenu
-**Scroll** on the page to find the specified assignment and Click on the assignment name.
+
+!!! quote "Example"
+        **Click** on the ‘Activities’ dropdown menu in the top navigation bar.  
+        **Click** on the ‘Assignments’ submenu  
+        **Scroll** on the page to find the specified assignment and Click on the assignment name.
 
 2. If a step requires additional information, that information will be placed directly underneath the step inside a note:
 
