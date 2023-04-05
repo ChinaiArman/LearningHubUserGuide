@@ -8,7 +8,7 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to dark mode
-      primary: blue
+      primary: deep purple
 
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
@@ -16,7 +16,7 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to light mode
-      primary: blue
+      primary: deep purple
 extra_css:
   - stylesheets/extra.css
 
