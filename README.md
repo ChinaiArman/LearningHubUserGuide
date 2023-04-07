@@ -1,6 +1,6 @@
 # LearningHub User Guide
 
-<b>Deployed</b>: https://chinaiarman.github.io/COMMUserGuides/
+<b>Deployed</b>: https://chinaiarman.github.io/LearningHubUserGuide/
 
 <b>Collaborators: Arman Chinai, Jas Randhawa
 
