@@ -15,6 +15,8 @@ The guide features comprehensive instructions to complete 3 common tasks, as wel
 
 * Markdown
 * MkDocs
+* VSCode
+* Git
 
 ### `Skills Used`
 
