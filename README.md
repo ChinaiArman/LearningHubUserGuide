@@ -14,6 +14,7 @@ The guide features comprehensive instructions to complete 3 common tasks, as wel
 ### Technologies Used:
 
 * Markdown
+* MkDocs
 
 ### `Skills Used`
 
